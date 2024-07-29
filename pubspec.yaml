@@ -1,0 +1,54 @@
+name: spenzy
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  flutter_svg_provider: ^1.0.7
+  intl: ^0.19.0
+  circular_chart_flutter: ^0.0.2
+  fast_charts: ^0.2.0
+  fl_chart: ^0.67.0
+  syncfusion_flutter_charts: ^25.1.37
+  flutter_bloc: ^8.0.0
+  flutter_colorpicker: ^1.0.3
+  shared_preferences: ^2.2.2
+  email_validator: ^2.1.17
+  firebase_core: ^2.19.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.15.8
+  http: ^1.2.0
+  expansion_tile_group: ^1.2.4
+dev_dependencies:
+  flutter_lints: ^1.0.0
+
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+  fonts:
+    - family: Wallpoet
+      fonts:
+        - asset: assets/fonts/Wallpoet.ttf
+          weight: 400
+    - family: Jura
+      fonts:
+        - asset: assets/fonts/JuraRegular.ttf
+          weight: 400
+        - asset: assets/fonts/JuraBold.ttf
+          weight: 700
+    - family: Courgette
+      fonts:
+        - asset: assets/fonts/CourgetteRegular.ttf
+          weight: 400
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400

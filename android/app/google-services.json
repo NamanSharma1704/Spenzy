@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "75024762434",
+    "firebase_url": "https://spenzy-7dc2e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spenzy-7dc2e",
+    "storage_bucket": "spenzy-7dc2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75024762434:android:1798f98de07c6967320fdb",
+        "android_client_info": {
+          "package_name": "com.example.spenzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIJnXR0-o2ydIYkQabVJJleFHybDE73o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
